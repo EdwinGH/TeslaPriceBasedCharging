@@ -1,4 +1,4 @@
-# TeslaPriceBasedCharging
+# Tesla Price- and Calendar-based Charging
 Python script to charge Tesla vehicle based on dynamic electricity price, and upcoming Google calendar entries with location
 
 Script rather specific for car (Tesla with Tessie), database (database with energy prices per hour, database with vehicle status), calendar (Google), home battery (SolarEdge), but still maybe interesting for people to build derivatives to achieve a similar functionality.
